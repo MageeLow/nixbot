@@ -1,5 +1,5 @@
 # nixbot
-Lightweight (POC) botnet coded in C++
+Lightweight TCP botnet coded in C++
 
 Server:
 
